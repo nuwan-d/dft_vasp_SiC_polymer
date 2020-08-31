@@ -1,5 +1,5 @@
 SiC-Pu
-  System = SiC-surface_relaxation
+  System = SiC-Pu_ionic_relaxation
   PREC   = Normal           # recommend to use PREC=Normal or PREC=Accurate
   ENCUT = 1100              # Kinetic Energy Cutoff in eV
   LREAL = Auto            # LREAL determines whether the projection operators are evaluated in real-space or in reciprocal space.

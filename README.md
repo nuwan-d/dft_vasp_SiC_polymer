@@ -5,4 +5,5 @@ The VASP input files required to conduct DFT calculations of the silicon-carbide
 
 Energy convergence is shown below (plotted using [p4vasp](http://www.p4vasp.at/#/home)).
 
-<img src="energy_convergence.PNG" width="900">
+<img src="energy_conv.PNG.PNG" width="900">
+
